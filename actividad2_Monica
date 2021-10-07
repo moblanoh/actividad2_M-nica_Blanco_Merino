@@ -1,0 +1,27 @@
+<tweet>
+	<nombre>Juan Luis</nombre>
+	<nombre_de_usuario>@j.luis</nombre_de_usuario>
+	<contenido>Es la hora de jugar</contenido>
+	<retweet>65,3 mil</retweet>
+	<megusta>345,8 mil</megusta>
+	<comentarios>
+		<comentario0>
+			<nombre_de_usuario0>@usuario2</nombre_de_usuario0>
+			<contenido0>Contenido 001...</contenido0>
+			<retweet>11</retweet>
+			<megusta>111</megusta>
+		</comentario0>
+		<comentario1>
+			<nombre_de_usuario2>@usuario3</nombre_de_usuario2>
+			<contenido1>Contenido 002...</contenido1>
+			<retweet>22</retweet>
+			<megusta>222</megusta>
+		</comentario1>
+		<comentario2>
+			<nombre_de_usuario3>@usuario4</nombre_de_usuario3>
+			<contenido2>Contenido 003...</contenido2>
+			<retweet>33</retweet>
+			<megusta>333</megusta>
+		</comentario2>
+	</comentarios>
+</tweet>
