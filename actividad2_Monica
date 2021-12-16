@@ -26,3 +26,35 @@
 	</comentarios>
 </tweet>
 
+{
+  "tweet": {
+    "nombre": "Juan Luis",
+    "nombre_de_usuario": "@j.luis",
+    "contenido": "Es la hora de jugar",
+    "retweet": "65,3 mil",
+    "megusta": "345,8 mil",
+    "comentarios": {
+      "comentario0": {
+        "nombre_de_usuario0": "@usuario2",
+        "contenido0": "Contenido 001...",
+        "retweet": "11",
+        "megusta": "111"
+      },
+      "comentario1": {
+        "nombre_de_usuario2": "@usuario3",
+        "contenido1": "Contenido 002...",
+        "retweet": "22",
+        "megusta": "222"
+      },
+      "comentario2": {
+        "nombre_de_usuario3": "@usuario4",
+        "contenido2": "Contenido 003...",
+        "retweet": "33",
+        "megusta": "333"
+      }
+    }
+  },
+  "#omit-xml-declaration": "yes"
+}
+
+
